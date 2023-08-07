@@ -2,12 +2,13 @@
 
 **Lab. Report \#5 – Software Reliability Assessment**
 
-| Group \#:       |   |
-|-----------------|---|
-| Student Names:  |   |
-|                 |   |
-|                 |   |
-|                 |   |
+| Group: 6      |
+|-----------------|
+| Francis, Michael                |   
+| Le, Michael              |   
+| Pretorius, Jean-Charl               |   
+| Rainbow, Sam                |
+| Sofela, Samuel                |
 
 # Introduction
 
