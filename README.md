@@ -1,5 +1,4 @@
 # seng637-assignment-5
 
 # Guideline
-- read [assignment guideline](./Assignment5.md) 
-- commit and push output ([assignment output template](./Assignment5-ReportTemplate.md))
+Our final reprt is in [Assignment 5 Report](./Assignment5-Team6.md)

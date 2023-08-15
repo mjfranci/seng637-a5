@@ -22,7 +22,7 @@ For the reliability growth testing, the team chose to use the Covariate Software
 ![](./images/fig1.png)
 ### Figure 1. Plot of Cumulative Failures
 
-## REsult of Model Comparison (Selecting Top Two Models)
+## Result of Model Comparison (Selecting Top Two Models)
 
 First, an estimation was run with all of the hazard functions and covariates selected and using all of the failure data, as can be seen in Figure 2. Then these models were analyzed to determine which models fit well with the failure data used. When using Log-Likelihood as a criteria, the two best models are the Discrete Weibull Type III (DW3) with covariate F, and the IFR Generalized Salvia & Bollinger (IFRGSB) with covariates E, F, as can be seen in Figure 3. Log-likelihood is one of the methods for assessing the goodness of fit between the software reliability growth model and the failure data, with higher log-likelihood indicating a better fit. The closer a model fits to the failure data, the more effective it is at describing the behavior of the software as it evolves. 
 
@@ -41,7 +41,7 @@ We chose to analyze the entire dataset so that we could see the overall trend of
 
 ## Time-between-failures, Failure Intensity and Reliability Graphs
 
-To analyze the reliability of the data, we decided to calculate the arimetical mean of the inter-failure times manually, as the C-SFRAT software did not have this capability, and the SRTAT wouldn't import the dataset. We chose to analyze the entire dataset to see the overall trend of system reliability growth.
+To analyze the reliability of the data, we decided to calculate the arithmetical mean of the inter-failure times manually, as the C-SFRAT software did not have this capability, and the SRTAT wouldn't import the dataset. We chose to analyze the entire dataset to see the overall trend of system reliability growth.
 
 ![](./images/fig5.png)
 ### Figure 5. Time-between-Failure
